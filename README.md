@@ -22,6 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kursatpolatci&show_icons=true&locale=en&layout=compact" alt="kursatpolatci" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kursatpolatci&show_icons=true&locale=en" alt="kursatpolatci" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursatpolatci&" alt="kursatpolatci" /></p>
-
