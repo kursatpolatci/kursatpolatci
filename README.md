@@ -32,16 +32,13 @@
 </div>
 
 ###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kursatpolatci&label=Profile%20views&color=0e75b6&style=flat" alt="kursatpolatci" /> </p>
-###
-
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kursatpolatci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kursatpolatci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kursatpolatci&label=Profile%20views&color=0e75b6&style=flat" alt="kursatpolatci" /> </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kursatpolatci/" target="_blank">
@@ -57,6 +54,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+
 
 ###
 <br clear="both">
