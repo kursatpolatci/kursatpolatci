@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Kürşat and I'm Full Stack Developer</h2>
+<h2 align="left">It’s so easy to be great because everybody’s weak.</h2>
 
 ###
 <div align="center">
