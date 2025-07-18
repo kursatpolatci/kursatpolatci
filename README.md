@@ -7,7 +7,7 @@ I'm a Computer Engineer with a deep passion for coding. Writing clean and effici
 <p>
   <a href="https://www.linkedin.com/in/kursatpolatci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://x.com/kursatpolatci" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> 
-  <a href="www.kursatpolatci.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a>
+  <a href="https://www.kursatpolatci.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a>
   <a href="https://www.instagram.com/kursatpolatci" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </p>
 
