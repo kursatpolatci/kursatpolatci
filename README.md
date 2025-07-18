@@ -1,7 +1,7 @@
 # Hello 👋, I'm Kürşat Polatcı
 ### Full Stack Developer
 
-I'm a Computer Engineering graduate with a deep passion for coding. Writing clean and efficient code is not just a skill for me—it's what I enjoy the most. I’m always eager to build, learn, and improve.
+I'm a Computer Engineer with a deep passion for coding. Writing clean and efficient code is not just a skill for me—it's what I enjoy the most. I’m always eager to build, learn, and improve.
 
 ## Contact Me
 <p>
